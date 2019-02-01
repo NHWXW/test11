@@ -3,3 +3,4 @@ jkjkjkjk
 lkjkljkjljlkjklj
 Host - ssh
 test
+git config set
